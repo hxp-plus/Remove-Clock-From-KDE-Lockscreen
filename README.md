@@ -1,9 +1,13 @@
 # Remove-Clock-From-KDE-Lockscreen
 Remove clock from KDE lockscreen to get a full view of wallpaper. Works for me in KDE Plasma 5.17.1 on Arch Linux 5.3.7.
 
-Just put LockScreenUi.qml under `/usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen` and overwirte
+Put LockScreenUi.qml under this location:
 
-*Remenber to backup*
+`/usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen` 
+
+and overwirte
+
+*Remember to backup*
 
 # My system information:
 ```
