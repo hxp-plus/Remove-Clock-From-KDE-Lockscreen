@@ -1,5 +1,7 @@
-# Remove-Clock-From-KDE-Lockscreen
+# (OUTDATED) Remove-Clock-From-KDE-Lockscreen
 Remove clock from KDE lockscreen to get a full view of wallpaper. Works for me in KDE Plasma 5.17.1 on Arch Linux 5.3.7.
+
+It has been out of date cause now you can go to "System Settings" -> "Workspace Bahaviour" -> "Screen Locking" -> "Apperance" and untick "Clock"
 
 Put LockScreenUi.qml under this location:
 
